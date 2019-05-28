@@ -1,0 +1,16 @@
+{
+  "name": "sample-email",
+  "version": "1.0.0",
+  "description": "sending an email in node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Damien Roy Pearson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.2.1",
+    "nodemon": "^1.19.1"
+  }
+}
